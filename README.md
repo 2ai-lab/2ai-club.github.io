@@ -6,3 +6,15 @@ Welcome to 2AI (Applied Artifcial Intelligence) club in the Computer Science dep
 **Research Discussions:** Engage with cutting-edge AI research topics.
 
 **Career Path Building:** Gain insights from industry experts, including professionals working at MAANG companies.
+
+**Members:**
+
+**President:** Chenchaiah Mekalathuru
+
+**Vice-Pesident:** David Cortes
+
+**Secretary:** Jaykumar Pujar
+
+**Public Relations Officer:** Deepika Nuthalapati
+
+**Treasurer:** Krishna Phanindra Marupaka
