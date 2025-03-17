@@ -1,5 +1,5 @@
 # 2ai-club.github.io
-Welcome to 2AI (Applied Artifcial Intelligence) club in the Computer Science department University of South Dakota. 
+Welcome to the 2AI (Applied Artificial Intelligence) club in the Computer Science department at the University of South Dakota. 
 
 **Peer Learning:** AI Basics, Build a Mini Chat GPT from scratch with guidance (Build a model and deploy it).
 
@@ -11,7 +11,7 @@ Welcome to 2AI (Applied Artifcial Intelligence) club in the Computer Science dep
 
 **President:** Chenchaiah Mekalathuru
 
-**Vice-Pesident:** David Cortes
+**Vice-Pesident:** Vacant
 
 **Secretary:** Jaykumar Pujar
 
